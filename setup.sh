@@ -9,3 +9,4 @@ source env/bin/activate
 sudo apt install python3.9-dev -y
 
 python -m pip install label-studio
+python -m pip install gdown
